@@ -110,7 +110,7 @@
 			<PanelCategories/>
 			<PanelIcon>
 				<uri
-					id="0242ac1e-0004-a1ee-843a-478a3039884a"
+					id="86bf01b8-bcbe-a1ee-a07a-ea4c64872a9f"
 					path="Airservices/Images/AirPlane.png"
 					type="com.cordys.cws.documenttypes.image.Png"
 				/>
@@ -143,7 +143,7 @@
 			<PanelCategories/>
 			<PanelIcon>
 				<uri
-					id="0242ac1e-0004-a1ee-843a-4782d3ac884a"
+					id="86bf01b8-bcbe-a1ee-a07a-ea3893712a9f"
 					path="Airservices/Images/Seat.png"
 					type="com.cordys.cws.documenttypes.image.Png"
 				/>
